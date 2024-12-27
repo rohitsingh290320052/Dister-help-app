@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14612017537",
+    "project_id": "disaster-helper-a4240",
+    "storage_bucket": "disaster-helper-a4240.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14612017537:android:b739089b40f18af0c83880",
+        "android_client_info": {
+          "package_name": "com.example.saathi3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCWmZNN8PP1K20644XzlKgyZIVH2__uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

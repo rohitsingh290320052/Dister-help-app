@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Saathi3</string>
+    <string name="title_activity_app_navigation">AppNavigation</string>
+    <string name="title_activity_role_selection_screen">RoleSelectionScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_theme">Theme</string>
+</resources>
